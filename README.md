@@ -30,4 +30,4 @@
 - Collecting Form Data
 
 ## Installations
-Flask-WTF <mark>pip install Flask-WTF<mark/> Email Validator <mark>pip install email_validator</mark>
+Flask-WTF ==pip install Flask-WTF== Email Validator ==pip install email_validator==
