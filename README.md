@@ -45,6 +45,8 @@ Flask-SQLAlchemy `pip install Flask-SQLAlchemy`, Flask-Migrate `pip install Flas
 Flask-Login `pip install flask-login`, psycopg2 (Windows) `pip install psycopg2`, psycopg2 (Mac/Linux) `pip install psycopg2-binary`
 
 [Flask-SQLAlchemy Docs](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+
 [Flask-Migrate Docs](https://flask-migrate.readthedocs.io/en/latest/)
+
 [Flask-Login Docs](https://flask-login.readthedocs.io/en/latest/)
 
